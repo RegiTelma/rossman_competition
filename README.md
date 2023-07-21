@@ -1,2 +1,2 @@
 # rossman_competition
-building a ml algorithim for forcast sales 
+forcasting sales for drugstores
