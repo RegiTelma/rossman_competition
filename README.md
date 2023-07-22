@@ -61,13 +61,7 @@ RMSPE is calculated using:
 ​
 Clone the repository.
 Install the required dependencies using pip install -r requirements.txt.
-```bash
-#  during the competition run
-python data.py
-​
-#  at test time run
-python data.py --test 1
-```
+
 Find the dataset from data/ directory.
 Execute the Jupyter notebook rossmann_store_sales.py to run the code step-by-step.
 ​
@@ -94,4 +88,3 @@ The final model achieved an RMSPE of ____ on the validation set and ____ on the 
 # Acknowledgments
 ​
 Special thanks to DSR, Kaggle and Rossmann for providing the dataset and hosting the competition.
-​
